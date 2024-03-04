@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# this is the repository for my WADS assignment to create a To do list app using react
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
